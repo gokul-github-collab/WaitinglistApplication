@@ -56,7 +56,7 @@ If a customer reaches Position 1 on the waitlist, they will receive an email at 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/gokul-github-collab/Waitlist-Application.git
+   https://github.com/gokul-github-collab/WaitinglistApplication.git
    ```
 
 2. **Frontend Setup:**
@@ -97,3 +97,4 @@ If a customer reaches Position 1 on the waitlist, they will receive an email at 
      ```
 
 **Note:** Make sure to log in as an administrator or customer by navigating to `/login` in the URL after entering the home page.
+
